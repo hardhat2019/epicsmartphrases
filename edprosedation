@@ -1,0 +1,93 @@
+Procedural Sedation
+
+Patient Name: @NAME@
+Medical Record #: @MRN@
+Date of Birth: @DOB@
+
+Pre Procedure Diagnosis: ***
+Indication/Planned Procedure: @CONSENTLASTQUEST@
+Sedation Plan: ***
+[x]  Moderate sedation
+[ ]  Deep sedation
+Sedation medication to be used: {Sedation meds:24231}
+Medical history reviewed. Medications reviewed. Allergies Reviewed.
+Last meal: > *** hours ago
+
+Mallampati Scale
+ [[[[[PICTURE]]]]]
+
+Mallampati Scale ***
+[ ]  Class 1 - Full view of soft palate, uvula, tonsils/pillars.
+[ ]  Class 2 - Partial view of the uvula and only upper components of tonsils/pillars.
+[ ]  Class 3 - Partial view limited to only the base of the uvula.
+[ ]  Class 4 - Soft palate not visible.
+
+ASA Classification ***
+[ ]  Class 1 - A normal, healthy individual
+[ ]  Class 2 - A patient with mild systemic disease
+[ ]  Class 3 - A patient with severe systemic disease that is not incapacitating
+[ ]  Class 4 - A patient with incapacitating systemic disease/constant threat to life
+[ ]  Class 5 - A moribund patient who is not expected to survive 24 hours
+
+Hx of OSA/Risk Factors for OSA:  No
+Predicted difficult airway:  No
+Previous Response to Anesthesia/Sedation:
+[x]  No complications reported
+[ ]  Known complications: ***
+
+Patient/representative was informed of risks/benefits and alternatives of planned procedure and planned procedural sedation. After reviewing potential complications, consent was obtained.
+
+Order placed for Practitioner Certification for Informed Consent {yes no:314532}
+
+Interpreter:
+[ ]  Video interpreter used
+[ ]  Phone interpreter used
+[ ]  Interpreter services offered but declined. The patient opted to use family instead.
+[ ]  Interpreter services offered but declined. The patient opted to communicate in English.
+[ ]  No interpreter used. Communicated in English.
+
+Pre-procedure Set up:
+[x]  RN at bedside
+[x]  Tech at bedside
+[x]  RT at bedside
+[x]  Pt placed on monitor
+[x]  End tidal C02 detector used
+[x]  IV placed
+[x]  Suction at beside
+[x]  BVM at bedside
+[ ]  Crash cart and airway equipment placed outside of room.
+
+
+Laterality/Site Marking:
+ [ ] Site Marking - The site was marked by myself.
+ [ ] No Site Marking - clear deformity on exam
+ [ ] No Site Marking- not a lateralizing procedure
+
+_____________________Procedure__________________
+
+Time out performed:  Yes
+
+The patient was given {Sedation meds:24231} in sequential doses as needed to produce adequate sedation. The procedure was then performed.
+
+Procedure performed: ***
+Procedure performed by: @MENR@
+
+Post procedure Diagnosis: Same as pre procedure diagnosis.
+
+Complications:
+[x]  None
+[ ]  Yes: ***
+
+Blood Loss: None.
+Specimens:
+[x]  None
+[ ]  Yes: ***
+
+Total intra-service time was  {Blank single:19197::"<10","23-37","38-52","10-22"} minutes, specifically *** minutes.
+
+
+___________________Post Procedure Recovery______________
+
+Post Sedation Evaluation completed at: ***
+
+The patient recovered and returned to baseline. Repeat CV and pulmonary exam after recovery from sedation was unchanged.
